@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
+*Python-3.11.0
 # C extensions
 *.so
 
